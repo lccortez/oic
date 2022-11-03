@@ -30,7 +30,7 @@ The B2B Integration Action can be added to an Integration flow from the Integrat
 
 The operations available in the B2B Integration Action depend on whether you are processing and Inbound or Outbound message. When using the automatically generated Transport Integrations, you will only need to use some of these operations (**highlighted** below). The other operations are used by the automatically generated Transport Integrations or if you want to created your own custom Transport Integrations.
 
-### Inbound
+### **Inbound**
 
 For an Inbound message scenario, the Backend Integration would receive an EDI payload (X12 or EDIFACT type documents) which would already have gone through a Translate operation in the Transport Integration. From here the Backend Integration would use the Fetch Message operation create a B2B canonical XML format which can then be mapped to the backend application format like ERP Cloud, NetSuite, etc.
 ![Translate Inbound EDI](images/b2baction-inbound-2.png)
