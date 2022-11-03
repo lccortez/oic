@@ -102,7 +102,7 @@ Navigate to Insight and access the Console to view your Console named **My Order
 
 Review the 5 Preconfigured Dashboards named **Milestone Summary**, **Passed Milestones**, **Active Business Transactions**, **Business Transaction**, **Errors** and **Avg. Business transaction Completion Time**.
 Preconfigured Dashboards:
-![Dashboard](./images/sample-dashboard.jpg " ")
+![Dashboard](./images/sampledashboard.jpg " ")
 
 Congratulation on completing the Process Mapping Test and Console View.
 You may now **proceed to the next lab**.
