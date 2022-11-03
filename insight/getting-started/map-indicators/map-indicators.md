@@ -89,9 +89,9 @@ Now let's map the new Standard milestone and Identifier <br />
 
 ## Task 2: Map Milestone and Identifiers  
 
-Indicators can be mapped to more than one Milestone to an Identifier . Let's map another Milestone to the Order Number
+Indicators can be mapped to more than one Milestone to an Identifier . Let's map another Milestone to the **Order Number**.
 Map your **Shipped** Milestone **On Exit** event to the **PrepareShipping** activity. <br />
-Now onto the Identifier. Set your **Order Number** Identifier Extraction Criteria for the **Shipped** Milestone to **$OrderNumber**.<br />
+Now, onto the Identifier. Set your **Order Number** Identifier Extraction Criteria for the **Shipped** Milestone to **$OrderNumber**.<br />
 Set your **Order Number** Identifier Extraction Criteria for the **Order Completed** Milestone to **$OrderNumber**.
 ![indicator product](./images/shipped-milestone.jpg " ")
  Go to Task 3 in order to save your work.<br />
