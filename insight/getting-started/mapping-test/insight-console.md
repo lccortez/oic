@@ -64,7 +64,7 @@ Now your turn to try!
 
 ## Task 1: Test Mapping
 
-1. Open the Integration named **Order Processing Lab** in Test. Locate the drop down next to **Operation** and select ReceiveOrder(Post). Click on the tab named **Body**, notice that the information below is already displayed.
+1. Open the Integration named **Oracle Order Processing** in Test. Locate the drop down next to **Operation** and select ReceiveOrder(Post). Click on the tab named **Body**, notice that the information below is already displayed.
 
 ```
     <copy>
@@ -101,6 +101,8 @@ Navigate to Insight and access the Console to view your Console named **My Order
 ## Task 4: Dashboard View
 
 Review the 5 Preconfigured Dashboards named **Milestone Summary**, **Passed Milestones**, **Active Business Transactions**, **Business Transaction**, **Errors** and **Avg. Business transaction Completion Time**.
+Preconfigured Dashboards:
+![Dashboard](./images/sample-dashboard.jpg " ")
 
 Congratulation on completing the Process Mapping Test and Console View.
 You may now **proceed to the next lab**.

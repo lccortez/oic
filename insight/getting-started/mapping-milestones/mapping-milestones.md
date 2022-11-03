@@ -91,14 +91,13 @@ Accessing your draft model, go to Milestones. You will map 5 Milestones and Iden
 
 ## Task 2: Map Identifiers
 
-For each integration, you must assign the model's identifier to at least one mapped milestone.
+For each integration, you must assign the model's identifier to at least one mapped milestone. Set the Order Number Identifier Extraction Criteria for each of the Milestones to **$OrderNumber**
 
-1. Set the Order Number Identifier Extraction Criteria for the each of the Milestones to **$OrderNumber**
-2. Click **Define extraction criteria"
-3. Locate and Drag **$OrderNumber** to the Expression box.
-4. Click **Validate** it will state a response of "Expression is valid and ready to use".
-5. Click **Close** to save.
-6. Repeat until all milestones have an extraction criteria completed.
+1. Click **Define extraction criteria"
+2. Locate and Drag **$OrderNumber** to the Expression box.
+3. Click **Validate** it will state a response of "Expression is valid and ready to use".
+4. Click **Close** to save.
+5. Repeat until all milestones have an extraction criteria completed.
 
 ## Task 3: Draft to Configured State
 
