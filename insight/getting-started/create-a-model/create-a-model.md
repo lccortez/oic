@@ -56,7 +56,7 @@ Every Model must have a Unique Instance Identifier defined. This identifier desc
 
 ### Identifier Steps
 
-    A.  Click tab named <Identifier>, located between 
+    A.  Click tab named <Identifier>, located between Milestones and Indicators. 
         1. Enter the Identifier Name "Identifier Name"
         2. Click on the Option Enter the Identifier Description. This will open the Milestone mapping area.
             a. From the Milestone dropdown select <It will show your current Milestones available to map>
@@ -93,9 +93,9 @@ Models can have additional Milestones. These are called Standard Milestones and 
 
 ## Task 3: Create Identifiers
 
-Finish your Draft Model by creating an Identifier and attach the Identifier to each of your created  Milestones.
+Finish your Draft Model by creating an Identifier and attach the Identifier to each of your created  Milestones. As taught open your Identifier tab and enter the names of each Identifier you wish to create. 
 
-1. The Identifier name is  **Order Number**,  for Milestone select  **Order Received**, the Data Type is **String**.
+1. The Identifier name is  **Order Number**,  for Milestone dropdown select  **Order Received**, the Data Type dropdown is **String**.
 2. Click "Assign to Another Milestone" and add the remaining 4 Milestones: **Backordered**, **Discount Applied**, **Shipped** and **Order Completed**
 3. Save your Draft Model. You will receive a confirmation that states "Successfully saved the changes."
 
