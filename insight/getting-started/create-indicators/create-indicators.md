@@ -69,7 +69,7 @@ Now it's your turn!
 ## Task 1: De-Activate Model
 
 You will need to De-Activate your current model. This will put your model back in Draft mode. Go to Task 2
-![deactivate](./images/deactivate.jpg " ") <br />
+![deactivate](./images/deactivate.png " ") <br />
 
 ## Task 2: Add Dimensions and Measures to the existing Model
 
@@ -77,7 +77,7 @@ In this Lab you will apply Dimensions and Measures. You will receive the message
 
 1. Click on **Open Draft** located on the top right side. 
 Open the Draft
-![draft](./images/draft.jpg " ")  <br />
+![draft](./images/draft.png " ")  <br />
 
 2. Navigate to Indicators Tab and add the following 2 Dimensions and 3 Measures to the Order Received Milestone: <br />
     a. Product (Dimension of type String) <br />

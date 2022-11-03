@@ -96,7 +96,7 @@ In order to have a robust example for the Console Dashboards, you will need addi
 
 ## Task 3: Insight Console View
 
-Navigate to Insight and access the Console to view your Console named **My Order Process**. Click on Console Manifest to view the names of the dashboards. You will see both the dropdowns for the Dashboard names and the Filter Details which showcases the Milestones and the Identifier.
+Navigate to **Insight** and access the **Console** to view your Console named **My Order Process**. Click on Console Manifest to view the names of the dashboards. You will see both the dropdowns for the Dashboard names and the Filter Details which showcases the Milestones and the Identifier.
 
 ## Task 4: Dashboard View
 
