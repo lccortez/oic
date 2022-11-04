@@ -84,7 +84,8 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
 
 ## Task 2: Console View
 
-Access the **Consoles** to view your Console named **My Order Process**. Click on Milestone Summary dashboard shows Order Received, Shipped, and Order Completed.
+Access the **Consoles** to view your Console named **My Order Process**. Click on Milestone Summary dashboard bubble to shows Order Received, Order Completed, Discount Applied, Shipped, and Backordered.You can export the transaction or click on any Order Number to see the information.
+![Milestone Summary](./images/milestonesummary.jpg " ")
     
 ## Task 3: Dashboard View
 
