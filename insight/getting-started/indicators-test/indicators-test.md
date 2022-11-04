@@ -73,8 +73,8 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
     </copy>
 {  
 "orderId": "1001",  
-"product": "Monitor", 
-"quantity": 10, 
+"product": "Monitor",
+"quantity": 10,
 "unitPrice": 800,  
 "discount": 0,  
 "country": "UK"  
@@ -84,12 +84,12 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
 
 ## Task 2: Console View
 
-Access the Console to view your Console named **My Order Process**. Click on Milestone Summary dashboard shows Order Received, Shipped, and Order Completed.
+Access the **Consoles** to view your Console named **My Order Process**. Click on Milestone Summary dashboard shows Order Received, Shipped, and Order Completed.
     
 ## Task 3: Dashboard View
 
 Review the Five Preconfigured Dashboards named **Milestone Summary**, **Passed Milestones**, **Active Business Transactions**, **Business Transaction**, **Errors** and **Avg. Business transaction Completion Time**.
-Review the Progress Tracker to you test instance.
+Review the Progress Tracker to review your test instance.
 
 Congratulation on completing the Indicator Mapping Test and Console View.
 
