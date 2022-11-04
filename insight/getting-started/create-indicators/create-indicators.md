@@ -66,9 +66,9 @@ An indicator can be mapped to one or more milestones. Mapping an indicator to mu
 
 Now it's your turn!
 
-## Task 1: De-Activate Model
+## Task 1: Deactivate Model
 
-You will need to De-Activate your current model. This will put your model back in Draft mode. Go to Task 2
+You will need to Deactivate your current model. This will put your model back in Draft mode. It may take up to 5 minutes to Deactivate the Model. Go to Task 2. 
 ![deactivate](./images/deactivate.png " ") <br />
 
 ## Task 2: Add Dimensions and Measures to the existing Model
@@ -78,12 +78,12 @@ In this Lab you will apply Dimensions and Measures. You will receive the message
 1. Click on **Open Draft** located on the top right side.
 ![draft](./images/draft.png " ")  <br />
 
-2. Navigate to Indicators Tab and add the following 2 Dimensions and 3 Measures to the Order Received Milestone: <br />
-    a. Product (Dimension of type String) <br />
-    b. Country (Dimension of type String) <br />
-    c. Quantity (Measure of type Integer) <br />
-    d. Unit Price (Measure of type Decimal) <br />
-    e. Total (Measure of type Decimal)  
+2. Navigate to Indicators Tab and add the following 2 Dimensions and 3 Measures to the **Order Received** Milestone: <br />
+    a. **Product** (Dimension of type **String**) <br />
+    b. **Country** (Dimension of type **String**) <br />
+    c. **Quantity** (Measure of type **Integer**) <br />
+    d. **Unit Price** (Measure of type **Decimal**) <br />
+    e. **Total** (Measure of type **Decimal**)  
 
     Click **Save**.
 

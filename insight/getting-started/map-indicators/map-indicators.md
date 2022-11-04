@@ -72,14 +72,15 @@ Now your turn to try!
 
 Access your deactivated model. You will map 5 Indicators.<br />
 
-Let's start with the **Order Received** Milestone Indicators. Under the **Extraction Criteria**,  Click **Open mapped integration to define extraction criteria**
+Let's start with the **Order Received** Milestone Indicators. Click **Open mapped integration to define extraction criteria**. Click **Define extraction criteria**.
+Remember to Click **Validate** and **Close** after each selection
 
 1. Set the **Country** Indicator Extraction Criteria to **$Country**.<br />
 ![indicatorproduct](./images/indicator-product.jpg " ").
 
-2. Set the **Total** Indicator Extraction Criteria to **$Total**.
+2. Set the **Product** Indicator Extraction Criteria to **$Product**.
 
-3. Set the **Product** Indicator Extraction Criteria to **$Product**.
+3. Set the **Total** Indicator Extraction Criteria to **$Quantity * $UnitPrice**.
 
 4. Set the **Quantity** Indicator Extraction Criteria to **$Quantity**. <br />
 
@@ -87,22 +88,13 @@ Let's start with the **Order Received** Milestone Indicators. Under the **Extrac
 
 Now let's map the new Standard milestone and Identifier <br />
 
-## Task 2: Map Milestone and Identifiers  
+## Task 2: Draft to Configured State
 
-Indicators can be mapped to more than one Milestone to an Identifier . Let's map another Milestone to the **Order Number**.
-Map your **Shipped** Milestone **On Exit** event to the **PrepareShipping** activity. <br />
-Now, onto the Identifier. Set your **Order Number** Identifier Extraction Criteria for the **Shipped** Milestone to **$OrderNumber**.<br />
-Set your **Order Number** Identifier Extraction Criteria for the **Order Completed** Milestone to **$OrderNumber**.
-![indicator product](./images/shipped-milestone.jpg " ")
- Go to Task 3 in order to save your work.<br />
+You may now click **Save** and ensure you receive the message box **Successfully saved the changes** and close your model. To activate the model, go to Task 3.
 
-## Task 3: Draft to Configured State
+## Task 3: Configured State to Active State
 
-You may now click **Save** and ensure you receive the message box **Successfully saved the changes** and close your model. To activate the model, go to Task 4.
-
-## Task 4: Configured State to Active State
-
-Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking **Activate** button.
+Access your Insight Models, activate your model by clicking **Activate** button.
 
 You will receive an Activation Confirmation box, click **Activate**. You will see a system response.
 ![reactivate](./images/reactivate.jpg " ")  <br />
