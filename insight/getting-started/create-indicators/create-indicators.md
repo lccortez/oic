@@ -75,8 +75,7 @@ You will need to De-Activate your current model. This will put your model back i
 
 In this Lab you will apply Dimensions and Measures. You will receive the message **Missing indicator mapping** on each indicator you create, however you will do the mapping in the next lab. 
 
-1. Click on **Open Draft** located on the top right side. 
-Open the Draft
+1. Click on **Open Draft** located on the top right side.
 ![draft](./images/draft.png " ")  <br />
 
 2. Navigate to Indicators Tab and add the following 2 Dimensions and 3 Measures to the Order Received Milestone: <br />

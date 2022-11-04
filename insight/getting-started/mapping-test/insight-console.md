@@ -88,7 +88,7 @@ In order to have a robust example for the Console Dashboards, you will need addi
 
 1. Download the sample from this link and save to your desktop or locale drive
 
-2. Select **ReceiveOrder(Post)**
+2. Select **Import(Post)**
 
 3. Select tab named **Body** and select **File**, Choose the json file you saved
 
@@ -97,6 +97,8 @@ In order to have a robust example for the Console Dashboards, you will need addi
 ## Task 3: Insight Console View
 
 Navigate to **Insight** and access the **Console** to view your Console named **My Order Process**. Click on Console Manifest to view the names of the dashboards. You will see both the dropdowns for the Dashboard names and the Filter Details which showcases the Milestones and the Identifier.
+
+![Console Manifest](./images/consolemanifest.png " ")
 
 ## Task 4: Dashboard View
 
