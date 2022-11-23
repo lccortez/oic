@@ -78,9 +78,9 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
 "unitPrice": 800,  
 "discount": 0,  
 "country": "UK"  
-} 
+}
     </copy>
-```
+...
 
 ## Task 2: Console View
 
