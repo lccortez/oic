@@ -74,9 +74,9 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
 {  
 "orderId": "1001",  
 "product": "Monitor",
-"quantity": 10,
-"unitPrice": 800,  
-"discount": 0,  
+"quantity": "10",
+"unitPrice": "800",  
+"discount": "0",  
 "country": "UK"  
 }
     </copy>
