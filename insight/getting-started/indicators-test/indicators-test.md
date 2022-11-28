@@ -67,7 +67,7 @@ You will test your mapping and then view the results of the order(s) in the crea
 
 ## Task 1: Test Mapping
 
-Open the Integration named **Order Processing Lab** in Test.  Copy the following information:
+1. Open the Integration named **Order Processing Lab** in Test.  Copy the following information:
 
 ...
     </copy>
@@ -81,17 +81,19 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
 }
     </copy>
 ...
+This will give you a sample to use on the Console view.
 
 ## Task 2: Console View
 
-Access the **Consoles** to view your Console named **My Order Process**. Click on Milestone Summary dashboard bubble to shows Order Received, Order Completed, Discount Applied, Shipped, and Backordered.You can export the transaction or click on any Order Number to see the information.
+1. Access the **Consoles** to view your Console named **My Order Process**. 
+2. Click on Milestone Summary dashboard bubble to shows Order Received, Order Completed, Discount Applied, Shipped, and Backordered. You can export the transaction or click on any Order Number to see the information.
 
 ![Milestone Summary](./images/milestonesummary.png " ")
-    
+
 ## Task 3: Dashboard View
 
-Review the Five Preconfigured Dashboards named **Milestone Summary**, **Passed Milestones**, **Active Business Transactions**, **Business Transaction**, **Errors** and **Avg. Business transaction Completion Time**.
-Review the Progress Tracker to review your test instance.
+1. Review the Five Preconfigured Dashboards named **Milestone Summary**, **Passed Milestones**, **Active Business Transactions**, **Business Transaction**, **Errors** and **Avg. Business transaction Completion Time**.
+2. Review the Progress Tracker to review your test instance.
 
 Congratulation on completing the Indicator Mapping Test and Console View.
 
