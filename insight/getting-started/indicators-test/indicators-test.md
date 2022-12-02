@@ -70,17 +70,21 @@ You will test your mapping and then view the results of the order(s) in the crea
 1. Open the Integration named **Order Processing Lab** in Test.  Copy the following information:
 
 ...
-    </copy>
-{  
-"orderId": "1001",  
-"product": "Monitor",
-"quantity": "10",
-"unitPrice": "800",  
-"discount": "0",  
-"country": "UK"  
-}
+
+    <copy>
+{
+    "orderId": "1001"
+    "product": Monitor,
+    "quantity": 10,
+    "unitPrice": 800,
+    "discount": 0,
+    "country": UK,
+    }
+
+
     </copy>
 ...
+
 This will give you a sample to use on the Console view.
 
 ## Task 2: Console View
