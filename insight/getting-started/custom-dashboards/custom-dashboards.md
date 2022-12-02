@@ -39,8 +39,8 @@ First practice the steps to familiarize yourself with the commands and then do t
 
 ### Custom Dashboard
 
-    A. On the Models page, Click the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Objective 4.
-        1. On the Models page, <Click> the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Objective 4.
+    A. On the Models page, Click the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Lab 6.
+        1. On the Models page, <Click> the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Lab 6.
         
         2. In the model's console, click <Create> The Create Dashboard Dialog will appear.
             a. Enter a suitable name for the dashboard
@@ -52,9 +52,9 @@ First practice the steps to familiarize yourself with the commands and then do t
             b. Select the <Aggregation Function>, you may select the box to "ignore empty values", if available 
             c. Select the <Grouping>, you may select the box to "ignore empty values", if available
 
- Now, let's get you to create on of each chart!
+ Now, let's get you to create a few charts!
 
- You will create one of each chart type. You will test your mapping and then view the results of the order(s) in the created Console and Dashboards.
+ You will create 3 chart types. You will test your mapping and then view the results of the order(s) in the created Console and Dashboards.
 
 ## Task 1: Pie Chart
 
@@ -97,40 +97,8 @@ X Axis: Instance Start Time (Ignore empty values) <br />
 
 Grouping: Country (Ignore empty values) <br />
 
-## Task 4: Area Chart
 
-Name: Quantity Sold by Product <br />
-Chart Type: Pie Chart <br />
-Y Axis: <br />
-Measure: Quantity <br />
-
-Aggregating Function: Sum <br />
-
-X Axis: Product (Ignore empty values) <br />
-
-## Task 5: Line Chart
-
-Name: Quantity Sold by Country <br />
-Chart Type: Area Chart <br />
-Y Axis:  <br />
-Measure: Quantity <br />
-
-Aggregating Function: Sum <br />
-
-X Axis: Country (Ignore empty values) <br />
-
-## Task 6: Scatter Chart
-
-Name: Quantity Sold by Country <br />
-Chart Type: Area Chart <br />
-Y Axis:  <br />
-Measure: Quantity <br />
-
-Aggregating Function: Sum <br />
-
-X Axis: Country (Ignore empty values) <br />
-
-## Task 7: Test
+## Task 4: Test
 
 Now that you completed the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using   **TBD**      test data file.
 Review custom dashboards.
