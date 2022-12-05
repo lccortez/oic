@@ -60,7 +60,7 @@ Open your existing Model and move it into *Draft* mode.
 
 ## Task 2: Add Indicators
 
-Add *Backordered* milestone Indicators named *Backordered Quantity* (Measure of type Integer)
+Add *Backordered* milestone Indicators named *Backordered Quantity* (Measure of type Integer). See Lab 8, if you need to refresh on how to add an Indicator. 
 
 ## Task 3: Add Alert
 
