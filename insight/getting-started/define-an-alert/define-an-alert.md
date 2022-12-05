@@ -60,21 +60,21 @@ Open your existing Model and move it into *Draft* mode.
 
 ## Task 2: Add Indicators
 
-Add *Backordered* milestone Indicators named *Backordered Quantity* (Measure of type Integer). See Lab 8, if you need to refresh on how to add an Indicator. 
+Add *Backordered* milestone Indicators named *Backordered Quantity* (Measure of type Integer). See Lab 8, if you need to refresh on how to add an Indicator.
 
 ## Task 3: Add Alert
 
-Create the Indicator type Alert named *Backordered Quantity*. Set the condition to *Backordered Quantity > 100*. Set the *Action to Send email* and enter your email address and configure the email. Select your OIC instance for the Email *from* field. Set the email Subject to *Backordered Quantity* **exceeded** *threshold*. Set the email Body to *You have an excess backorder of ${Backordered Quantity} units for product ${Product}*.
-Next, create a Milestone Type Alert named *Shipping Delay*, set the **From Milestone** to *Backordered*. Set the **To Milestone** to *Shipped*. Set the **condition** to *Not Passed* with *1* minute. Set the *Action Email* and enter *your email address* and configure the email by selecting your OIC instance from the email From field. SE
+1. Create the Indicator type Alert named *Backordered Quantity*. Set the condition to *Backordered Quantity > 100*. Set the *Action to Send email* and enter your email address and configure the email. Select your OIC instance for the Email *from* field. Set the email Subject to *Backordered Quantity* **exceeded** *threshold*. Set the email Body to *You have an excess backorder of ${Backordered Quantity} units for product ${Product}*.
+2. Create a Milestone Type Alert named *Shipping Delay*, set the **From Milestone** to *Backordered*. Set the **To Milestone** to *Shipped*. Set the **condition** to *Not Passed* with *1* minute. Set the *Action Email* and enter *your email address* and configure the email by selecting your OIC instance from the email From field. SE
 setting the email Subject to *Backorder has delayed shipping*. Set the email Body to *You have a backorder of ${Backordered Quantity} units for product ${Product} which is delaying shipping*.
-Save and Close.
+3. Save and Close.
 
 ## Task 4: Map Milestone and Indicators
 
-Now, you need to map the *Backordered* Milestone *ON Exit* event to the *Backordered* activity. Set the *Order Number* Identifier Extraction Criteria for the *Backordered* Milestone to *$Backordered Quantity*. Map the *Backordered* Milestone Indicators by setting the *Backordered Quantity* Indicator Extraction Criteria to *$BackorderedQuantity*.
-Save your work.
-
-Verify your Insight Model is in the Configured state and then Activate you Insight Model.
+1. Map the *Backordered* Milestone *ON Exit* event to the *Backordered* activity. Set the *Order Number* Identifier Extraction Criteria for the *Backordered* Milestone to *$Backordered Quantity*. 2. Map the *Backordered* Milestone Indicators by setting the *Backordered Quantity* Indicator Extraction Criteria to *$BackorderedQuantity*.
+3. Save your work.
+4. Verify your Insight Model is in the Configured state.
+5. Activate you Insight Model.
 
 ## Task 5: Testing your Alert
 
@@ -117,7 +117,7 @@ Congratulation in completing this Workshop.
 
 More about key concepts and terminology can be found at [https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html](http://docs.oracle.com)
 
-See **[Send Service Failure Alerts, System Status Reports, and Integration Error Reports by Notification Emails] (https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/integration-cloud/user-int-insight-oci&id=ICSUG-GUID-4A8952AD-00AB-423A-ABE5-94C01ABF4AC3)** in Using Integrations in Oracle Integration.
+See **[Send Service Failure Alerts, System Status Reports, and Integration Error Reports by Notification Emails] (<https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/integration-cloud/user-int-insight-oci&id=ICSUG-GUID-4A8952AD-00AB-423A-ABE5-94C01ABF4AC3>)** in Using Integrations in Oracle Integration.
 
 ## Acknowledgements
 
