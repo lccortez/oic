@@ -27,9 +27,9 @@ First practice the steps to familiarize yourself with the commands and then do t
         1. If the model is not a draft, click Create Draft.
         2. Click <Alerts>
             a. If no alerts exist for the model, the Alerts page looks like this:
-            ![noalert](./images/noalert.jpg " ")
+            ![noalert](./images/noalert.png " ")
             b. If alerts have been defined for the model, the Alerts page looks like this:
-            ![existingalert](./images/existingalert.jpg " ")
+            ![existingalert](./images/existingalert.png " ")
         3. Click <Add Alert>, then enter an alert name and optional description.
         4. Define the required alert <Condition>:
             a. To define an alert based on whether or not a milestone is reached:
