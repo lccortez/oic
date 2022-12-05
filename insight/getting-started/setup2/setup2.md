@@ -23,7 +23,7 @@ This lab assumes you have:
 
 On your Oracle Integration instance, import and install the data loader package to deploy and configure the integration and associated resources.
 
-1. Download the [Data Loader File](https://objectstorage.us-ashburn-1.oraclecloud.com/p/LNAcA6wNFvhkvHGPcWIbKlyGkicSOVCIgWLIu6t7W2BQfwq2NSLCsXpTL9wVzjuP/n/c4u04/b/livelabsfiles/o/developer-library/ORCL-R_ORDER_PROCESSING_01.00.0000.iar) to your local drive.
+1. Download the [Data Loader Integration](https://objectstorage.us-ashburn-1.oraclecloud.com/p/LNAcA6wNFvhkvHGPcWIbKlyGkicSOVCIgWLIu6t7W2BQfwq2NSLCsXpTL9wVzjuP/n/c4u04/b/livelabsfiles/o/developer-library/ORCL-R_ORDER_PROCESSING_01.00.0000.iar) file to your local drive.
 
 2. At the Home Page, Click on Integrations and Click Import
 

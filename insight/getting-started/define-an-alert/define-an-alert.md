@@ -23,7 +23,7 @@ First practice the steps to familiarize yourself with the commands and then do t
 
 ### How to Add an Alert
 
-    A. On the Models page, click the name or Edit icon icon of the model for which you want to create alerts. 
+    On the Models page, click the name or Edit icon icon of the model for which you want to create alerts. 
         1. If the model is not a draft, click Create Draft.
         2. Click <Alerts>
             a. If no alerts exist for the model, the Alerts page looks like this:
@@ -100,7 +100,7 @@ Wait at least 1 minute and invoke the *shipping* operation by copying the follow
 {  
 "orderId": "1002",
 "quantity": 250,  
-"availableQuantity": 250,    
+"availableQuantity": 250    
 } 
     </copy>
 ```
